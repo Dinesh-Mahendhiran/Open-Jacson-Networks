@@ -17,8 +17,10 @@ Visual components and Python
 
 
 ## Experiment:
-![Summa](image.png)
-![Summatha](image-1.png)
+<img width="1126" height="669" alt="Screenshot 2026-05-17 225726" src="https://github.com/user-attachments/assets/bcca8284-a56e-4daf-9af9-d43de3796738" />
+<img width="1131" height="660" alt="Screenshot 2026-05-17 225757" src="https://github.com/user-attachments/assets/267261ae-e39e-4855-9395-20cfdd608e17" />
+
+
 
 # Name: DINESH M
 # Register Number: 212225040080
